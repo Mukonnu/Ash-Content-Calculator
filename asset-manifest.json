@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/char-yield-calculator/static/css/main.e6c13ad2.css",
+    "main.js": "/char-yield-calculator/static/js/main.4f476eec.js",
+    "static/js/453.f00c23d0.chunk.js": "/char-yield-calculator/static/js/453.f00c23d0.chunk.js",
+    "index.html": "/char-yield-calculator/index.html",
+    "main.e6c13ad2.css.map": "/char-yield-calculator/static/css/main.e6c13ad2.css.map",
+    "main.4f476eec.js.map": "/char-yield-calculator/static/js/main.4f476eec.js.map",
+    "453.f00c23d0.chunk.js.map": "/char-yield-calculator/static/js/453.f00c23d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.4f476eec.js"
+  ]
+}
