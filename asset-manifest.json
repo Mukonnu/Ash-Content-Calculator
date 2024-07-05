@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Ash-Content-Calculator/static/css/main.fd4540c1.css",
-    "main.js": "/Ash-Content-Calculator/static/js/main.fe7597cc.js",
+    "main.js": "/Ash-Content-Calculator/static/js/main.c70099a2.js",
     "static/js/453.0dc8df98.chunk.js": "/Ash-Content-Calculator/static/js/453.0dc8df98.chunk.js",
     "index.html": "/Ash-Content-Calculator/index.html",
     "main.fd4540c1.css.map": "/Ash-Content-Calculator/static/css/main.fd4540c1.css.map",
-    "main.fe7597cc.js.map": "/Ash-Content-Calculator/static/js/main.fe7597cc.js.map",
+    "main.c70099a2.js.map": "/Ash-Content-Calculator/static/js/main.c70099a2.js.map",
     "453.0dc8df98.chunk.js.map": "/Ash-Content-Calculator/static/js/453.0dc8df98.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fd4540c1.css",
-    "static/js/main.fe7597cc.js"
+    "static/js/main.c70099a2.js"
   ]
 }
