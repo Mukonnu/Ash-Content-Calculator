@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Char-Yield-Calculator/static/css/main.b9b111a2.css",
-    "main.js": "/Char-Yield-Calculator/static/js/main.7766766c.js",
-    "static/js/453.f00c23d0.chunk.js": "/Char-Yield-Calculator/static/js/453.f00c23d0.chunk.js",
-    "index.html": "/Char-Yield-Calculator/index.html",
-    "main.b9b111a2.css.map": "/Char-Yield-Calculator/static/css/main.b9b111a2.css.map",
-    "main.7766766c.js.map": "/Char-Yield-Calculator/static/js/main.7766766c.js.map",
-    "453.f00c23d0.chunk.js.map": "/Char-Yield-Calculator/static/js/453.f00c23d0.chunk.js.map"
+    "main.css": "/Ash-Content-Calculator/static/css/main.b9b111a2.css",
+    "main.js": "/Ash-Content-Calculator/static/js/main.fba4191e.js",
+    "static/js/453.0dc8df98.chunk.js": "/Ash-Content-Calculator/static/js/453.0dc8df98.chunk.js",
+    "index.html": "/Ash-Content-Calculator/index.html",
+    "main.b9b111a2.css.map": "/Ash-Content-Calculator/static/css/main.b9b111a2.css.map",
+    "main.fba4191e.js.map": "/Ash-Content-Calculator/static/js/main.fba4191e.js.map",
+    "453.0dc8df98.chunk.js.map": "/Ash-Content-Calculator/static/js/453.0dc8df98.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b9b111a2.css",
-    "static/js/main.7766766c.js"
+    "static/js/main.fba4191e.js"
   ]
 }
